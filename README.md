@@ -1,4 +1,4 @@
-# PJF_WAT_2021
+# Hunt 2d source
 
 Credits:
 
