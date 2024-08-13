@@ -1,5 +1,8 @@
 # Hunt 2d source
 
+Source code repository. For more information on installation and usage see:
+https://github.com/User19283536/Hunt2D_TheGame
+
 Credits:
 
 character: 
